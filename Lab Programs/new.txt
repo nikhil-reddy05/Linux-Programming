@@ -1,0 +1,2 @@
+this is line one in new.txt
+this content is appended
